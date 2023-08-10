@@ -1,0 +1,86 @@
+body {
+  background: #eee;
+  font-family: "Vazirmatn", sans-serif;
+  font-size: 14px;
+  color: #000;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+.wrapper {
+  width: 333px;
+  height: 510px;
+  /* height: auto; */
+  background-color: #fff;
+  border-radius: 16px;
+  padding: 12px;
+  box-shadow: rgba(17, 17, 26, 0.1) 0px 0px 16px;
+}
+.swiper {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.swiper-slide {
+  font-size: 18px;
+  /* background: #ff0000; */
+  display: flex;
+  flex-direction: column;
+  cursor: pointer;
+}
+.swiper-slide img {
+  display: block;
+  /* width: 392px; */
+  height: 216px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+.main {
+  position: relative;
+  margin-top: 20px;
+  direction: rtl;
+}
+.span-bold {
+  font-weight: 700;
+  font-size: 20px;
+  color: rgba(0, 0, 0, 1);
+}
+.p-light {
+  font-weight: 400;
+  font-size: 14px;
+  color: rgba(0, 0, 0, 0.54);
+}
+/* Change-Default-SwiperJs */
+.swiper-pagination {
+  position: relative !important;
+  margin-top: 20px;
+}
+.swiper-button-next::after,
+.swiper-button-prev::after {
+  content: "";
+}
+.swiper-pagination-bullet-active {
+  background-color: rgba(95, 101, 246, 1) !important;
+}
+/* Button */
+.btn-wrapper {
+  position: relative !important;
+  display: flex;
+  margin-top: 20px;
+}
+.btn {
+  padding: 4px 30px;
+  background-color: rgba(95, 101, 246, 1);
+  color: #fff;
+  border-radius: 9px;
+  font-size: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 6px;
+}
