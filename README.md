@@ -7,7 +7,7 @@ What will we learn in this mini project?
 
 --------------------------------------------------------------
 
-Live-Demo ----> [Click Here](https://mohammadrezaei5.github.io/Invitation-Card/)
+Live-Demo ----> [Click Here](https://mohammadrezaei5.github.io/Swiper/)
 
 --------------------------------------------------------------
 
