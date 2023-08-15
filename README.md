@@ -11,7 +11,7 @@ Live-Demo ----> [Click Here](https://mohammadrezaei5.github.io/Invitation-Card/)
 
 --------------------------------------------------------------
 
-IMAGE:
-![invitation-card](https://github.com/MohammadRezaei5/Swiper/assets/92850417/03f485f0-9a8b-4b3f-bb27-6f7836481bb0)
+GIF:
+![Swiperjs-min](https://github.com/MohammadRezaei5/Swiper/assets/92850417/be327561-d6bf-4558-a1f8-3efb8493c22b)
 
 
